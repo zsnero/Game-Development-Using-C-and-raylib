@@ -1,2 +1,2 @@
-# Game-Development-Using-C-and-raylib
+# Game-Development-Using-Cpp-and-raylib
 Repo for games developed using C++ and raylib
